@@ -2,7 +2,7 @@
 
 ## `Mk:dialog(title text type)`
 ダイアログを表示します。typeには以下の値が設定できます。\
-`info` `success` `warn` `error` `question`\
+`info` `success` `warning` `error` `question`\
 省略すると `info` になります。
 
 ## `Mk:confirm(title text type)`
