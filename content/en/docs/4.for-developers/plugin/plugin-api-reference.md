@@ -3,7 +3,7 @@
 ## `Mk:dialog(title text type)`
 
 Display a dialog box.The following values ​​can be set for type.\
-`info` `success` `warn` `error` `question`\
+`info` `success` `warning` `error` `question`\
 If omitted, it will be `info`.
 
 ## `Mk:confirm(title text type)`
