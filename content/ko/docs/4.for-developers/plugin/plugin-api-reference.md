@@ -3,7 +3,7 @@
 ## `Mk:dialog(title text type)`
 
 대화 상자를 표시합니다.type에는 다음과 같은 값을 설정할 수 있습니다.\
-`info` `success` `warn` `error` `question`\
+`info` `success` `warning` `error` `question`\
 생략하면 `info`가 됩니다.
 
 ## `Mk:confirm(title text type)`
